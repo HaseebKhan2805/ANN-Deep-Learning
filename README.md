@@ -63,7 +63,8 @@ The labs progressively build foundational knowledge and practical expertise, fro
 ### Setup
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/cs381-ann-dl-labs.git
+git clone https://github.com/HaseebKhan2805/ANN-Deep-Learning.git
+
 cd cs381-ann-dl-labs
 
 # (Optional) Create a virtual environment
